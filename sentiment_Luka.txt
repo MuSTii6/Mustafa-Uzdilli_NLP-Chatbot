@@ -1,0 +1,29 @@
+{
+  "sentiment_analysis": [
+    {
+      "content": "Hello Luka, it's great to chat with you. As a Chatbot, I am programmed to assist you with whatever information you need to navigate daily life situations. How can I help you today?",
+      "role": "user",
+      "sentiment_score": 0.8
+    },
+    {
+      "content": "How can I inform someone in the best way to tell them I have hearing impairment ?",
+      "role": "user",
+      "sentiment_score": 0.9
+    },
+    {
+      "content": "What if someone makes a rude reaction when finding out that I have hearing impairment ?",
+      "role": "user",
+      "sentiment_score": -0.7
+    },
+    {
+      "content": "Maintaining composure is easier said than done...",
+      "role": "user",
+      "sentiment_score": -0.4
+    },
+    {
+      "content": "Got it, the conversation with you was quite helpful, thanks.",
+      "role": "user",
+      "sentiment_score": 0.8
+    }
+  ]
+}

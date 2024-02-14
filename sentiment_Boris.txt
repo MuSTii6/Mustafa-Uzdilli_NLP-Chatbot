@@ -1,0 +1,38 @@
+{
+  "sentiment_analysis": [
+  {
+    "content": "I think I made the right choice by meeting up with you.",
+    "role": "user",
+    "sentiment_score": 0.847
+  },
+  {
+    "content": "First of all, I would like to get rid of my depressive mindset, what do you think I should do ?",
+    "role": "user",
+    "sentiment_score": -0.666
+  },
+  {
+    "content": "What are evidence-based therapies ?",
+    "role": "user",
+    "sentiment_score": 0.378
+  },
+  {
+    "content": "I see, what has to be done from my side ?",
+    "role": "user",
+    "sentiment_score": 0.108
+  },
+  {
+    "content": "How should I react if I have a setback ?",
+    "role": "user",
+    "sentiment_score": 0.361
+  },
+  {
+    "content": "Alright, that was very helpful, thank you very much.",
+    "role": "user",
+    "sentiment_score": 0.836
+  },
+  {
+    "content": "I will, thank you very much for your time, I appreciate your support.",
+    "role": "user",
+    "sentiment_score": 0.653
+  },
+]

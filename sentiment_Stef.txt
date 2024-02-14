@@ -1,0 +1,47 @@
+[
+  {
+    "content": "Hey bro, long time no see. Thanks, appreciate your words, but I am still quite nervous because I have never worked in this kind of job before",
+    "role": "user",
+    "sentiment_score": 0.552
+  },
+  {
+    "content": "How should I approach them ?",
+    "role": "user",
+    "sentiment_score": 0.0
+  },
+  {
+    "content": "What do you exactly mean by \"articulate my words\" ?",
+    "role": "user",
+    "sentiment_score": 0.0
+  },
+  {
+    "content": "Should I also use facial expressions and gestures while speaking ?",
+    "role": "user",
+    "sentiment_score": 0.0
+  },
+  {
+    "content": "What kind of misunderstandings ?",
+    "role": "user",
+    "sentiment_score": 0.0
+  },
+  {
+    "content": "Makes sense, thank you my friend. What if a person might be in danger, but they obviously can't hear me if I just shout their name to prevent them from the danger, how should I react in such a situation ?",
+    "role": "user",
+    "sentiment_score": 0.0
+  },
+  {
+    "content": "Would it be beneficial if I learn sign language ?",
+    "role": "user",
+    "sentiment_score": 0.5
+  },
+  {
+    "content": "Is it hard to learn ?",
+    "role": "user",
+    "sentiment_score": 0.5
+  },
+  {
+    "content": "Alright, thank you my friend, I knew that I can always count on you.",
+    "role": "user",
+    "sentiment_score": 0.617
+  },
+]

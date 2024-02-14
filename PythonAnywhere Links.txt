@@ -1,0 +1,15 @@
+ChatGPT, API Key:
+
+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
+
+
+Pythonanywhere Links:
+
+https://mustii6.pythonanywhere.com/bot_1/bot_Luka/chat
+https://mustii6.pythonanywhere.com/bot_1/bot_Luka/conversation
+
+https://mustii6.pythonanywhere.com/bot_2/bot_Boris/chat
+https://mustii6.pythonanywhere.com/bot_2/bot_Boris/conversation
+
+https://mustii6.pythonanywhere.com/bot_4/bot_Stef/chat
+https://mustii6.pythonanywhere.com/bot_4/bot_Stef/conversation
